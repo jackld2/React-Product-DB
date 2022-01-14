@@ -1,4 +1,6 @@
 # React-Product-DB
+This DB is an oversimplification of car parts but still fulfills what I set out to do and can be scaled to maintain parts using the real standard.
+I was thinking about populating the images in the database with the google images api but it is not free nor a great solution. I think if images were needed by the client, they
 
 ## Sources
 
