@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA/GurmhezDEiyUOQZ/NwxEQAAAAACAAAAAAAQZgAAAAEAACAAAAAZT0xEZmZ9g6z3xLPXQCCBlyvnStn3U3k14+h7CcoSdAAAAAAOgAAAAAIAACAAAAA6JmwgJLnqgF39RqGW4kLigSZAXzQ7EVyojdwjSAC2gIAAAADx2+JZ4JPZ4C7n1IT+u61Tux1yCf9qwZF2o5IG0nSI5GvxYzeFsprf+rVzDG9zH8bGdNy6AEjTEMmYoJqC3ysLtFdl9qeRyBeQAXCM5d8EZrgWZS2W3bwV1dTNlDS7Ky1bkZkP3sgXk85Bm9u6OJLzBctWJMOtUH69i6xKWXwXukAAAABRl/lr1n/Wi5JpwVzPpSgVGCI7kpTyDr8hnDa/1x7naRImkYcY1e2MIy8C3H+ADYt+LH4Yq8zp8/FYc7ZLoAMi</EncryptedPassword>
+    <History>True|2022-01-15T04:12:53.7323972Z;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="ProductAppCon">
+      <Value>Data Source=tcp:experimentationserv.database.windows.net,1433%3bInitial Catalog=mytestproductdb%3bUser Id=jack12%40experimentationserv%3bPassword=foobar13!</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
