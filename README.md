@@ -50,7 +50,7 @@ Hosted Application: TBD
  7. Web scraping images/useful links for parts.
  8. Multi-store functionality, where stock could be searched across stores or checked on a per store basis.
  9. Data visualization of sale, stock, and price history using D3.js
- 10. Used WebGL to provide a rotatable 3D model of part in question. Would be cool but probably not realistic in the order of a million rows.
+ 10. Used WebGL to provide a rotatable 3D model of part in question. Would be cool but probably not realistic in the order of a million rows and the models would be very large and hard to procure.
 
 ## Resources I used
 
