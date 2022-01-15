@@ -10,7 +10,7 @@ A Demo project with the following parameters
 All but the fifth parameters are met, and this application is designed to maintain a database of automotive parts in particular. The DB schema is an oversimplification of a true automotive part standard but still fulfills what I set out to do in terms of scalability and functionality.
 
 ### Backend
-This application uses a Microsoft Azure SQL database courtesy of my student Azure account. The main data table is as follows
+This application uses a Microsoft Azure SQL database courtesy of my student Azure account. The connection string is provided in appsettings but let me know if it doesn't work if you try to build this on your own. The main data table is as follows
 
     create table dbo.Product(
 		ProductId int identity(1,1),
